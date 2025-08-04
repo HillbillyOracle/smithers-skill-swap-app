@@ -1,6 +1,21 @@
 <h1 class="text-3xl font-heading text-primary mb-4">Welcome to Smithers Skill Swap</h1>
 <p class="text-lg text-secondary">Your community event app.</p>
 =======
+<h1>Welcome to Smithers Skill Swap</h1>
+<p>Your community event app.</p>
+
+<ul>
+  <li><a href="/events">View Events</a></li>
+  <li><a href="/teach">Teach a Skill</a></li>
+  <li><a href="/gallery">Visit the Gallery</a></li>
+</ul>
+
+<div>
+  <button class="btn-lime">Join Now</button>
+  <button class="btn-yellow">Learn More</button>
+  <button class="btn-bright-blue">Contact Us</button>
+</div>
+=======
 <h1 class="text-4xl font-bold text-purple-700">Welcome to Smithers Skill Swap</h1>
 <p class="mt-4">Your community event app.</p>
 <a

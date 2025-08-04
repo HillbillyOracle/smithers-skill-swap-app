@@ -10,4 +10,8 @@
   <h2 class="text-2xl font-heading text-primary mb-2">{event.title}</h2>
   <p class="mb-4">{event.description}</p>
   <!-- RSVP form stub -->
+=======
+  <h2 class="text-2xl mb-4">{event.title}</h2>
+  <p class="mb-4">{event.description}</p>
+  <button class="btn-yellow">RSVP</button>
 {/if}
