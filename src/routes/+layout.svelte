@@ -3,6 +3,11 @@
   export let data;
 </script>
 
+<div class="min-h-screen font-body bg-gray-50 text-gray-800">
+  <slot />
+</div>
+=======
+=======
 <div class="app-container">
   <slot />
 </div>
